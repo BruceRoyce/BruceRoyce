@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BruceRoyce
-- 👀 I’m interested in Front End, AI
+- 👀 I’m interested in Frontend, Machine Learning and Interaction
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on Natural Language
 - 📫 Email me at bruceroyce@yahoo.com
