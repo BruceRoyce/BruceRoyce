@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BruceRoyce
+- 👋 Hi, I’m @BruceRoyce - This is my replacement account 😞
 - 👀 I’m interested in LegalTech ⚖, Frontend 🎪, Machine Learning 🧮, Automation and Robotics ⚡ and Filmmaking
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on Natural Language 
