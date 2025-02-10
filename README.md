@@ -33,10 +33,11 @@ Survived lead frontend engineer 😋
 
 <a href="http://www.github.com/bruceroyce"><img src="https://github-readme-stats.vercel.app/api?username=bruceroyce&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="bruceroyce's GitHub stats" /></a>
 
-<a href="http://www.github.com/bruceroyce"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bruceroyce&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<div>
+  <img src="https://media2.dev.to/dynamic/image/width=180,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F9%2FVersion2-07.png" style="width: 100px; height: 100px;" /> 
+</div>
 
 ### Support Me
-
-
 
 <a href="https://www.buymeacoffee.com/brucerroycq"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
