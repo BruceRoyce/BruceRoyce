@@ -12,9 +12,8 @@ Survived lead frontend engineer 😋
 ----------------------------------
 
 *   🌍  I'm based in London, England
-*   🚀  I'm currently working on [Legal 500](http://(s)legal500.com)
-*   🧠  I'm learning Rust
-*   🤝  I'm open to collaborating on LegalTech, MovieTech, Automation and Robotics 🔥 and Filmmaking
+*   🧠  I'm learning Go
+*   🤝  I'm open to collaborating on AI, LegalTech, MovieTech, Automation and Robotics 🔥 and Filmmaking
 *   ⚡  My leadership philosophy centres on fostering psychological safety and continuous learning, enabling teams to tackle complex challenges while maintaining unwavering focus on business value.
 
 ### Skills
